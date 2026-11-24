@@ -7,9 +7,9 @@ xyz...
 
 ## Project Structure
 LAQN-API-project/
-│
-├── filename.py
-└── filename2.py
+|
+|-- filename.py
+|-- filename2.py
 
 ## AI Usage
 AI usage declaration 
