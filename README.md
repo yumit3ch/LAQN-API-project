@@ -6,7 +6,7 @@ Abou the data source: This information has been obtained from the Environmental 
 xyz...
 
 ## Project Structure
-LAQN-API-project/
+LAQN-API-project
 |
 |-- filename.py
 |-- filename2.py
